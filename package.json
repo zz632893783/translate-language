@@ -1,0 +1,20 @@
+{
+  "name": "translate",
+  "version": "0.0.1",
+  "description": "英文翻译为中文的插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "翻译"
+  ],
+  "author": "zz",
+  "license": "ISC",
+  "devDependencies": {
+    "translate-language": "^0.0.1",
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.11",
+    "webpack-dev-server": "^3.1.1"
+  }
+}
