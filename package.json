@@ -12,7 +12,7 @@
   "author": "zz",
   "license": "ISC",
   "devDependencies": {
-    "translate-language": "^0.0.1",
+    "translate-language": "^0.0.9",
     "webpack": "^4.1.1",
     "webpack-cli": "^2.0.11",
     "webpack-dev-server": "^3.1.1"
